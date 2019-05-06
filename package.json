@@ -1,5 +1,5 @@
 {
-  "name": "hyper-synthwavw84",
+  "name": "hyper-synthwave84",
   "version": "0.0.2",
   "description": "A SinthWave'84 hyper theme",
   "license": "MIT",
@@ -7,15 +7,15 @@
   "author": {
     "name": "Diogo Cezar",
     "email": "diogo@diogocezar.com",
-    "url": "http://diogocezar.dev"
+    "url": "http://diogocezar.com"
   },
   "files": [
     "index.js"
   ],
   "keywords": [
-    "hyper-synthwavw84",
+    "hyper-synthwave84",
     "hyper",
     "hyper-theme",
-    "synthwavw84"
+    "synthwave84"
   ]
 }
